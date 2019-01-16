@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# commented added
 function usage {
      echo """
      This script is to upload the website components of the AWS Serverless Samfarm demo to the s3 bucket created to host
