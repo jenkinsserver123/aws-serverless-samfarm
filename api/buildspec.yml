@@ -1,5 +1,5 @@
 version: 0.0
-environment_variables:
+environment_variables: # some comment here
     plaintext:
         "INPUT_FILE": "saml.yaml"
         "S3_BUCKET": ""
